@@ -13,8 +13,9 @@ def add_student(student, grade)
 end
 
 def grade(level)
+  binding.pry
   roster[level]
-  end
+end
 
 
 
