@@ -17,6 +17,7 @@ def grade(level)
 end
 
 def sort
+  roster.each
 end
 
 end
