@@ -12,8 +12,7 @@ def add_student(student, grade)
 end
 
 def grade(level)
-  if roster[grade] == level
-    roster[grade]
+
   end
 
 end
