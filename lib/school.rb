@@ -1,3 +1,4 @@
+require 'pry'
 class School
 attr_accessor :name, :roster
 
@@ -12,7 +13,7 @@ def add_student(student, grade)
 end
 
 def grade(level)
-
+  roster[level]
   end
 
 
