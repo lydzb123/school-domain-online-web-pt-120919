@@ -21,5 +21,6 @@ def sort
     binding.pry
   roster[grade] = students.sort
 end
+end
 
 end
