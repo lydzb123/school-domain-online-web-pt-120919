@@ -16,6 +16,7 @@ def grade(level)
   roster[level]
 end
 
-
+def sort
+end
 
 end
